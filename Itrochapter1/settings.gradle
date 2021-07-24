@@ -1,0 +1,2 @@
+rootProject.name = "Itro chapter 1"
+include ':app'

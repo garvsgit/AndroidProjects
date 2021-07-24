@@ -1,0 +1,2 @@
+rootProject.name = "Loginlod"
+include ':app'
